@@ -1,0 +1,47 @@
+.travel-booking-container {
+    text-align: left;
+    padding: 20px;
+  }
+
+  .project-links {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .project-link {
+    color: #d7dbdf;
+    text-decoration: none;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .project-link:hover {
+    color: #a3caf9;
+  }
+  
+  .image-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 30px;
+    justify-items: center;
+    margin-top: 20px;
+  }
+  
+  .booking-image {
+    width: 100%;
+    max-width: 500px; /* Increase image size */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .booking-image:hover {
+    transform: scale(1.1);
+  }
+
+
+
+
+  
+  

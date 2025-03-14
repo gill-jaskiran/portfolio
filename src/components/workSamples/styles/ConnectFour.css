@@ -1,0 +1,26 @@
+.connect-four-container {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  .connect-four-image-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px; 
+    justify-items: center;
+    margin-top: 20px;
+  }
+  
+  .connect-four-image {
+    width: 100%;
+    max-width: 500px; 
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .connect-four-image:hover {
+    transform: scale(1.08);
+  }
+  

@@ -1,0 +1,47 @@
+.Bio {
+    color: #1a3d2d;
+    color: white;
+    font-family: "Arial", sans-serif;
+    padding: 40px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    background-color: #17322d;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+  }
+  
+  .content {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap; 
+  }
+  
+  .profile-img {
+    width: 250px; 
+    border-radius: 10px;
+    margin-right: 20px; 
+    float: left; 
+  }
+  
+  .text-content {
+    flex: 1;
+    text-align: justify;
+  }
+  
+  .text-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .text-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  

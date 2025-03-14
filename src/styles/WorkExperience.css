@@ -1,0 +1,28 @@
+.work-experience {
+    padding: 20px;
+}
+
+.work-list {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.work-list li {
+    margin: 15px 0; 
+}
+
+.work-list a {
+    display: inline-block; 
+    background-color: #17322d; 
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+    border-radius: 5px; 
+    font-weight: normal; 
+    font-size: 1.1em; 
+}
+
+.work-list a:hover {
+    background-color: #5a8b7b; 
+    border: 2px solid white; 
+}
