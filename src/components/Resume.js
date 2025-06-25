@@ -55,6 +55,17 @@ const Resume = () => {
       <div className="section">
         <h2>PROFESSIONAL EXPERIENCE</h2>
 
+        <h3>Office Assistent (May 2025 - Present)</h3>
+        <p>Ministry of Environment, Parks and Conservation - Coperate Services Branch, Toronto, ON</p>
+        <ul>
+          <li>Uploading files, applying redactions, and preparing documents in PDF format for review and storage</li>
+          <li>Processing intake emails and responding to public inquiries professionally and efficiently</li>
+          <li>Closing and communicating over 400 files</li>
+          <li>Sending decision letters to requestors in a 2-month period</li>
+          <li>Conducting various property-related searches and initiate retrieval requests from district offices and various branches to support information access</li>
+          <li>Managing sensitive records in strict compliance with FIPPA (Freedom of Information and Protection of Privacy Act)</li>
+        </ul>
+        
         <h3>Sales Trainer & Sales Associate (Nov 2020 - Present)</h3>
         <p>H&M, Mississauga, ON</p>
         <ul>

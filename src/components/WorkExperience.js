@@ -22,6 +22,15 @@ const WorkExperience = () => {
                 <li>
                     <Link to="/connect-four">Connect Four Game</Link>
                 </li>
+                <li>
+                    <a 
+                        href="https://github.com/gill-jaskiran/portfolio" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                    >
+                        This Portfolio's Source Code
+                    </a>
+                </li>
             </ul>
         </div>
     );
