@@ -8,7 +8,7 @@ const WorkExperience = () => {
             <h2>Academic Work Experience</h2>
             <ul className="work-list">
                 <li>
-                    <Link to="/capstone-project">Capstone Project</Link>
+                    <Link to="/capstone-project">Friendship Plus</Link>
                 </li>
                 <li>
                     <Link to="/private-chat-box">Private Chat Box</Link>
