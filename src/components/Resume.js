@@ -44,7 +44,7 @@ const Resume = () => {
         </ul>
 
         <h3>Politics and Governance, Bachelor of Arts (Honors) (2018-2022)</h3>
-        <p>Toronto Metropolitan University, Toronto ON</p>
+        <p>Toronto Metropolitan University (Previously known as Ryerson University), Toronto ON</p>
         <ul>
           <li>Experience in writing, researching, and analyzing data.</li>
           <li>Knowledge of Canadian constitutional law, policy-making, and stakeholder relationships.</li>
@@ -55,12 +55,22 @@ const Resume = () => {
       <div className="section">
         <h2>PROFESSIONAL EXPERIENCE</h2>
 
-        <h3>Office Assistent (May 2025 - Present)</h3>
+        <h3>Legal Administrative Assistant (September 2025 - Present)</h3>
+        <p>Ministry of Attorney General - Peel Crown Attorneys Office, Brampton, ON</p>
+        <ul>
+          <li>Liaise with Crown Attorneys and the Peel Police unit to coordinate and distribute disclosure materials, ensuring accuracy and compliance with legal standards</li>
+          <li>Prepare and process disclosure packages (digital, hard copy, disk), safeguarding sensitive information and providing access for both counsel and self-represented individuals</li>
+          <li>Track and update case file statuses, record court outcomes (withdrawals, adjournments, bench warrants), and promptly notify the Peel Police unit and other relevant parties</li>
+          <li>Support courtroom operations by providing real-time disclosure updates to judges and Crown Attorneys</li>
+          <li>Serve as first point of contact at reception, assisting clients with disclosure access, video viewings, and platform registration while managing sensitive interactions</li>
+        </ul>
+
+        <h3>Office Assistent (May 2020 - September 2025)</h3>
         <p>Ministry of Environment, Parks and Conservation - Coperate Services Branch, Toronto, ON</p>
         <ul>
           <li>Uploading files, applying redactions, and preparing documents in PDF format for review and storage</li>
           <li>Processing intake emails and responding to public inquiries professionally and efficiently</li>
-          <li>Closing and communicating over 400 files</li>
+          <li>Closing and communicating over 300 files</li>
           <li>Sending decision letters to requestors in a 2-month period</li>
           <li>Conducting various property-related searches and initiate retrieval requests from district offices and various branches to support information access</li>
           <li>Managing sensitive records in strict compliance with FIPPA (Freedom of Information and Protection of Privacy Act)</li>
